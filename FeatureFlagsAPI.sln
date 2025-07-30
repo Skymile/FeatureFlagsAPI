@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFlagsAPI", "FeatureFlagsAPI\FeatureFlagsAPI.csproj", "{B3A8BFF2-3C77-D079-65CA-3A0DAD0475B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFlagsAPI.Tests", "FeatureFlagsAPI.Tests\FeatureFlagsAPI.Tests.csproj", "{B09382E1-B840-4D9B-BC2E-DD6C1DBC605A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A8BFF2-3C77-D079-65CA-3A0DAD0475B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A8BFF2-3C77-D079-65CA-3A0DAD0475B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A8BFF2-3C77-D079-65CA-3A0DAD0475B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A8BFF2-3C77-D079-65CA-3A0DAD0475B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09382E1-B840-4D9B-BC2E-DD6C1DBC605A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09382E1-B840-4D9B-BC2E-DD6C1DBC605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09382E1-B840-4D9B-BC2E-DD6C1DBC605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09382E1-B840-4D9B-BC2E-DD6C1DBC605A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4126AC-92AC-42F1-8FA5-5EF0BC9C4FB7}
+	EndGlobalSection
+EndGlobal
